@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": false,
+		"layout": { "contentSize": "1140px", "wideSize": "1550px" },
+		"color": {
+			"defaultPalette": false,
+			"defaultGradients": false,
+			"palette": [
+				{ "slug": "rot", "name": "KÜS-Rot", "color": "#c8102e" },
+				{ "slug": "schwarz", "name": "Schwarz", "color": "#000000" },
+				{ "slug": "text", "name": "Text", "color": "#525252" },
+				{ "slug": "hell", "name": "Hellgrau", "color": "#f4f5f7" },
+				{ "slug": "weiss", "name": "Weiß", "color": "#ffffff" }
+			]
+		},
+		"typography": { "customFontSize": false, "dropCap": false, "fontSizes": [] },
+		"spacing": { "padding": false, "margin": false, "blockGap": null }
+	}
+}

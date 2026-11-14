@@ -1,0 +1,42 @@
+name: Deploy auf Mittwald
+
+# Push auf main  -> Staging
+# Manuell mit target=live -> Live-Seite
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Ziel (staging oder live)"
+        required: true
+        default: staging
+        type: choice
+        options: [staging, live]
+
+concurrency:
+  group: deploy-${{ github.event.inputs.target || 'staging' }}
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.target || 'staging' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: PHP-Syntax prüfen
+        run: find . -name '*.php' -not -path './.git/*' -print0 | xargs -0 -n1 php -l > /dev/null
+
+      - name: SSH-Schlüssel einrichten
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.MITTWALD_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H "${{ secrets.MITTWALD_SSH_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Theme hochladen
+        run: |
+          rsync -az --delete \
+            --exclude '.git' --exclude '.github' --exclude 'README.md' --exclude '.gitignore' \
+            ./ "${{ secrets.MITTWALD_SSH_USER }}@${{ secrets.MITTWALD_SSH_HOST }}:${{ secrets.MITTWALD_THEME_PATH }}/"

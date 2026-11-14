@@ -1,0 +1,360 @@
+{
+  "standorte": {
+    "steinen": {
+      "name": "Steinen",
+      "titel": "Hauptuntersuchung Steinen",
+      "strasse": "Karl-Groß-Straße 2",
+      "ort": "79585 Steinen",
+      "telefon": "07627/6212379",
+      "email": "LOE@pruefstelle-blatter.de",
+      "oeffnungszeiten": [
+        {
+          "tag": "Montag",
+          "zeit": "Geschlossen"
+        },
+        {
+          "tag": "Dienstag",
+          "zeit": "09:00-12:00 - 13:00-17:30Uhr"
+        },
+        {
+          "tag": "Mittwoch",
+          "zeit": "09:00-12:00 - 13:00-17:30Uhr"
+        },
+        {
+          "tag": "Donnerstag",
+          "zeit": "09:00-12:00 - 13:00-17:30Uhr"
+        },
+        {
+          "tag": "Freitag",
+          "zeit": "09:00-12:30Uhr"
+        },
+        {
+          "tag": "Samstag",
+          "zeit": "Geschlossen"
+        },
+        {
+          "tag": "Sonntag",
+          "zeit": "Geschlossen"
+        }
+      ],
+      "karte": "karl groß straße 2 79585",
+      "varianten": [
+        "Montag Geschlossen | Dienstag 09:00-12:00 - 13:00-17:30Uhr | Mittwoch 09:00-12:00 - 13:00-17:30Uhr | Donnerstag 09:00-12:00 - 13:00-17:30Uhr | Freitag 09:00-12:30Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag Geschlossen | Dienstag 09:00-12:00 - 13:00-17:30Uhr | Mittwoch 09:00-12:00 - 13:00-17:30Uhr | Donnerstag 09:00-12:00 - 13:00-17:30Uhr | Freitag 09:00-12:30Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag Geschlossen | Dienstag 09:00-12:00 - 13:00-17:30Uhr | Mittwoch 09:00-12:00 - 13:00-17:30Uhr | Donnerstag 09:00-12:00 - 13:00-17:30Uhr | Freitag 09:00-12:30Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag Geschlossen | Dienstag 09:00-12:00 - 13:00-17:30Uhr | Mittwoch 09:00-12:00 - 13:00-17:30Uhr | Donnerstag 09:00-12:00 - 13:00-17:30Uhr | Freitag 09:00-12:30Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag Geschlossen | Dienstag 09:00-12:00 - 13:00-17:30Uhr | Mittwoch 09:00-12:00 - 13:00-17:30Uhr | Donnerstag 09:00-12:00 - 13:00-17:30Uhr | Freitag 09:00-12:30Uhr | Samstag Geschlossen | Sonntag Geschlossen"
+      ]
+    },
+    "freiburg": {
+      "name": "Freiburg",
+      "titel": "Hauptuntersuchung Freiburg",
+      "strasse": "Bötzinger Str. 12",
+      "ort": "79111 Freiburg",
+      "telefon": "0761/42217",
+      "email": "FR@pruefstelle-blatter.de",
+      "oeffnungszeiten": [
+        {
+          "tag": "Montag",
+          "zeit": "8:00-17:00Uhr"
+        },
+        {
+          "tag": "Dienstag",
+          "zeit": "8:00-17:00Uhr"
+        },
+        {
+          "tag": "Mittwoch",
+          "zeit": "8:00-17:00Uhr"
+        },
+        {
+          "tag": "Donnerstag",
+          "zeit": "8:00-17:00Uhr"
+        },
+        {
+          "tag": "Freitag",
+          "zeit": "8:00-17:00Uhr"
+        },
+        {
+          "tag": "Samstag",
+          "zeit": "Geschlossen"
+        },
+        {
+          "tag": "Sonntag",
+          "zeit": "Geschlossen"
+        }
+      ],
+      "karte": "bötzingerstraße 12 79111",
+      "varianten": [
+        "Montag 8:00-17:00Uhr | Dienstag 8:00-17:00Uhr | Mittwoch 8:00-17:00Uhr | Donnerstag 8:00-17:00Uhr | Freitag 8:00-17:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 8:00-17:00Uhr | Dienstag 8:00-17:00Uhr | Mittwoch 8:00-17:00Uhr | Donnerstag 8:00-17:00Uhr | Freitag 8:00-17:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 8:00-17:00Uhr | Dienstag 8:00-17:00Uhr | Mittwoch 8:00-17:00Uhr | Donnerstag 8:00-17:00Uhr | Freitag 8:00-17:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 8:00-17:00Uhr | Dienstag 8:00-17:00Uhr | Mittwoch 8:00-17:00Uhr | Donnerstag 8:00-17:00Uhr | Freitag 8:00-17:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 8:00-17:00Uhr | Dienstag 8:00-17:00Uhr | Mittwoch 8:00-17:00Uhr | Donnerstag 8:00-17:00Uhr | Freitag 8:00-17:00Uhr | Samstag Geschlossen | Sonntag Geschlossen"
+      ]
+    },
+    "bad-saeckingen": {
+      "name": "Bad Säckingen",
+      "titel": "Hauptuntersuchung Bad Säckingen",
+      "strasse": "Im Grütt 8",
+      "ort": "79713 Bad Säckingen",
+      "telefon": "07761/9996263",
+      "email": "SAEK@pruefstelle-blatter.de",
+      "oeffnungszeiten": [
+        {
+          "tag": "Montag",
+          "zeit": "10:00-18:00Uhr"
+        },
+        {
+          "tag": "Dienstag",
+          "zeit": "10:00-18:00Uhr"
+        },
+        {
+          "tag": "Mittwoch",
+          "zeit": "10:00-18:00Uhr"
+        },
+        {
+          "tag": "Donnerstag",
+          "zeit": "10:00-18:00Uhr"
+        },
+        {
+          "tag": "Freitag",
+          "zeit": "14:00-18:00Uhr"
+        },
+        {
+          "tag": "Samstag",
+          "zeit": "Geschlossen"
+        },
+        {
+          "tag": "Sonntag",
+          "zeit": "Geschlossen"
+        }
+      ],
+      "karte": "im grütt 8, 79713",
+      "varianten": [
+        "Montag 10:00-18:00Uhr | Dienstag 10:00-18:00Uhr | Mittwoch 10:00-18:00Uhr | Donnerstag 10:00-18:00Uhr | Freitag 14:00-18:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 10:00-18:00Uhr | Dienstag 10:00-18:00Uhr | Mittwoch 10:00-18:00Uhr | Donnerstag 10:00-18:00Uhr | Freitag 10:00-18:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 10:00-18:00Uhr | Dienstag 10:00-18:00Uhr | Mittwoch 10:00-18:00Uhr | Donnerstag 10:00-18:00Uhr | Freitag 14:00-18:00Uhr | Samstag Geschlossen | Sonntag Geschlossen",
+        "Montag 10:00-18:00Uhr | Dienstag 10:00-18:00Uhr | Mittwoch 10:00-18:00Uhr | Donnerstag 10:00-18:00Uhr | Freitag 14:00-18:00Uhr | Samstag Geschlossen | Sonntag Geschlossen"
+      ]
+    }
+  },
+  "preise": {
+    "standard": [
+      {
+        "titel": "Hauptuntersuchung PKW",
+        "prefix": "",
+        "preis": "164",
+        "suffix": "€",
+        "hinweis": "(inkl. Mwst.)",
+        "punkte": [
+          "Inkl. Abgasuntersuchung",
+          "Nachkontrolle 21€",
+          "105€ ohne Abgasuntersuchung"
+        ]
+      },
+      {
+        "titel": "Hauptuntersuchung Motorrad",
+        "prefix": "",
+        "preis": "92",
+        "suffix": "€",
+        "hinweis": "(inkl. Mwst.)",
+        "punkte": [
+          "Inkl. Abgasuntersuchung",
+          "65€ ohne Abgasuntersuchung",
+          "Nachkontrolle 21€"
+        ]
+      },
+      {
+        "titel": "Hauptuntersuchung Anhänger",
+        "prefix": "ab",
+        "preis": "44",
+        "suffix": "€",
+        "hinweis": "(inkl. Mwst.)",
+        "punkte": [
+          "Bis 750kg",
+          "Gebremster Anhänger (idR.&gt;750kg) 64€",
+          "Nachkontrolle 21€",
+          "derzeit keine HU für Wohnwagen"
+        ]
+      }
+    ],
+    "steinen": [
+      {
+        "titel": "Hauptuntersuchung PKW",
+        "prefix": "",
+        "preis": "158",
+        "suffix": "€",
+        "hinweis": "(inkl. Mwst.)",
+        "punkte": [
+          "Inkl. Abgasuntersuchung",
+          "Nachkontrolle 21€",
+          "101€ ohne Abgasuntersuchung"
+        ]
+      },
+      {
+        "titel": "Hauptuntersuchung Motorrad",
+        "prefix": "",
+        "preis": "89",
+        "suffix": "€",
+        "hinweis": "(inkl. Mwst.)",
+        "punkte": [
+          "Inkl. Abgasuntersuchung",
+          "63€ ohne Abgasuntersuchung",
+          "Nachkontrolle 21€"
+        ]
+      },
+      {
+        "titel": "Hauptuntersuchung Anhänger",
+        "prefix": "ab",
+        "preis": "43",
+        "suffix": "€",
+        "hinweis": "(inkl. Mwst.)",
+        "punkte": [
+          "Bis 750kg",
+          "Gebremster Anhänger 63€",
+          "Nachkontrolle 21€",
+          "derzeit keine HU für Wohnwagen"
+        ]
+      }
+    ]
+  },
+  "bewertungen": [
+    {
+      "name": "Sandi Machado",
+      "text": "Klare Empfehlung ! Mit Termin 15 min gewartet obwohl der Hof und Parkplatz voll waren wurde ich vom Prüfer mit ein Lächeln freundlich begrüßt schöne Erfahrung die ich gerne an meinen Freundeskreis weitergebe . Weiter so ! Vielen dank .",
+      "sterne": 5
+    },
+    {
+      "name": "Gregor Blood",
+      "text": "Habe Probleme mit der Auflastung am Wohnmobil gehabt. Bei der KÜS wurde mir schnell, kompetent und vor allem super freundlich geholfen. Danke dafür! Für die regelmäßigen HU/AU Untersuchungen ebenfalls sehr zu empfehlen. Seit Jahren auch in diesem Bereich eine kompetente Adresse.",
+      "sterne": 5
+    },
+    {
+      "name": "Patrick Stark",
+      "text": "Bin wie immer spontan hingefahren und hatte nach 20min meine Plakette! Einfach top! Sehr kompetent, freundlich und zuvorkommend. Danke",
+      "sterne": 5
+    },
+    {
+      "name": "Lukas Bittner",
+      "text": "Ich bin neu in Freiburg und habe die KÜS-Prüfstelle empfohlen bekommen. Keine Wartezeit, sehr professioneller Umgang. Ich wurde freundlich empfangen und jederzeit informiert, was bei der Prüfung passiert. Ich habe mich sehr aufgehoben gefühlt und empfehle gerne weiter! Danke.",
+      "sterne": 5
+    },
+    {
+      "name": "Franz Bott",
+      "text": "Besser gehts wirklich nicht, beim Anhänger das Licht repariert. Beim Auto das Licht eingestellt. Kaffee gibt es noch gratis dazu. Ich fahre nie wieder zu den anderen.",
+      "sterne": 5
+    },
+    {
+      "name": "Napoleon",
+      "text": "Ich war das erste mal mit einem meiner Fahrzeuge dort (e92 335d) und war sichtlich und voll zufrieden mit dem Service. Der Prüfer ist sehr kulant aber auch streng was die Sicherheit betrifft was ich auch richtig finde daher für mich ab sofort meine zukünftige alternative Anlaufstelle für Tüv Prüfungen👍🏽 …",
+      "sterne": 5
+    },
+    {
+      "name": "Daniel Okazaki",
+      "text": "Ich habe dort bezüglich eines Termins zur Hauptuntersuchung für mein Auto angerufen und habe gleich am nächsten Tag einen Termin bekommen. Es lief alless einwandfrei, keine Wartezeit, freundliches und kompetentes Personal sowie unkomplizierte und schnelle Abwicklung der Hauptuntersuchung. Ich bin rundum zufrieden Top! 👍🏽",
+      "sterne": 5
+    }
+  ],
+  "slides": [
+    {
+      "titel": "Öffnungszeiten Freiburg",
+      "text": "<p>Aktuell Freitags Mittagspause von 12-13 Uhr.&nbsp;</p>",
+      "button_text": "Öffnungszeiten",
+      "button_link": "#Kontakt",
+      "karte_oben": "Freiburg",
+      "karte_unten": "Öffnungszeiten",
+      "bild": "/wp-content/uploads/2024/02/uhr.jpg"
+    },
+    {
+      "titel": "Öffnungszeiten Steinen",
+      "text": "<p>Aktuell gibt es keine geänderten Öffnungszeiten – die Prüfstelle ist wie gewohnt geöffnet.</p>",
+      "button_text": "Öffnungszeiten",
+      "button_link": "#Kontakt",
+      "karte_oben": "Steinen",
+      "karte_unten": "Öffnungszeiten",
+      "bild": "/wp-content/uploads/2024/02/uhr.jpg"
+    },
+    {
+      "titel": "Öffnungszeiten Bad Säckingen",
+      "text": "<p>Aktuell gibt es keine geänderten Öffnungszeiten – die Prüfstelle ist wie gewohnt geöffnet.</p>",
+      "button_text": "Öffnungszeiten",
+      "button_link": "#Kontakt",
+      "karte_oben": "Bad Säckingen",
+      "karte_unten": "Öffnungszeiten",
+      "bild": "/wp-content/uploads/2024/02/uhr.jpg"
+    },
+    {
+      "titel": "Prüfstelle Blatter",
+      "text": "<p>Als KFZ-Prüfstelle in Freiburg, Bad Säckingen und Steinen, bieten wir dir, im Namen und Auftrag der KÜS, die regelmäßig fälligen Untersuchungen an deinem Fahrzeug an.</p>",
+      "button_text": "Termin buchen",
+      "button_link": "#termin",
+      "karte_oben": "Unsere KFZ-Prüfstelle",
+      "karte_unten": "Termin buchen",
+      "bild": "/wp-content/uploads/2025/04/herslider_plakette.jpg"
+    },
+    {
+      "titel": "Blog",
+      "text": "<p>Erfahre hier mehr über den HU-Mängelbericht und was er bedeutet in unserem neuen Blogartikel.</p>",
+      "button_text": "Mehr erfahren",
+      "button_link": "/maengelbericht-welche-maengelkategorien-gibt-es-und-was-bedeuten-diese/",
+      "karte_oben": "Blog",
+      "karte_unten": "Der HU-Mängelbericht",
+      "bild": "/wp-content/uploads/2024/11/Kontrolle-Kombiinstrument.jpg"
+    },
+    {
+      "titel": "Berichtskopie",
+      "text": "<p>Du benötigst eine Berichtskopie von uns? Unter folgendem Link kannst du diese ganz einfach beantragen:&nbsp;</p>",
+      "button_text": "Beantragen",
+      "button_link": "https://www.kues-fahrzeugueberwachung.de/berichtskopien/",
+      "karte_oben": "HU-Informationen",
+      "karte_unten": "Berichtskopie",
+      "bild": "/wp-content/uploads/2025/04/heroslider.jpg"
+    },
+    {
+      "titel": "Prüfstelle in Steinen",
+      "text": "<p>Seit Mai 2025 sind wir auch in Steinen für dich vor Ort – gegenüber von Lidl.</p>",
+      "button_text": "Zum Standort",
+      "button_link": "/hauptuntersuchung/steinen/",
+      "karte_oben": "Seit 2025",
+      "karte_unten": "Prüfstelle Steinen",
+      "bild": "/wp-content/uploads/2025/04/stein-hu-e1745256443754.jpg"
+    }
+  ],
+  "kopf": {
+    "news": "News: Geänderte Öffnungszeiten in Freiburg, Bad Säckingen und Höllstein",
+    "news_link": "/",
+    "telefone": [
+      {
+        "text": "Freiburg: 0761-42217",
+        "href": "tel:+4976142217"
+      },
+      {
+        "text": "Bad Säckingen: 07761-9996263",
+        "href": "tel:+4977619996263"
+      },
+      {
+        "text": "Steinen: 07627-6212379",
+        "href": "tel:+4976276212379"
+      }
+    ],
+    "logo": "/wp-content/uploads/2023/10/Logo_final_final.png"
+  },
+  "grundsaetze": {
+    "titel": "Das sind unsere Grundsätze",
+    "punkte": [
+      "Unkompliziert",
+      "Freundlich",
+      "Schnell"
+    ],
+    "bild": "/wp-content/uploads/2024/02/eddi-schluesseluebergabe.jpg"
+  },
+  "google": {
+    "schnitt": "4.9",
+    "anzahl": "321",
+    "link": "https://admin.trustindex.io/api/googleReview?place-id=ChIJGYe40N0akUcReZNp0QSe_8E"
+  },
+  "fuss": {
+    "text": "Das Team von der KFZ-Prüfstelle Blatter freut sich auf deine nächste Hauptuntersuchung.",
+    "karte": "https://maps.google.com/maps?q=B%C3%B6tzinger%20Str.%2012%2C%2079111%20Freiburg%20im%20Breisgau&t=m&z=13&output=embed&iwloc=near"
+  }
+}

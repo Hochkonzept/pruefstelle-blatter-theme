@@ -1,0 +1,178 @@
+[
+  {
+    "id": 3756,
+    "slug": "steinen",
+    "parent": 1541,
+    "title": "Steinen",
+    "link": "/hauptuntersuchung/steinen/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung in Steinen| KÜS KFZ-Prüfstelle Blatter",
+      "description": "Hauptuntersuchung in Steinen einfach und unkompliziert machen lassen ✓ PKW ✓ Wohnmobil ✓ Anhänger ✓ Motorrad ✓ Wir freuen uns auf dich!"
+    },
+    "file": "3756-steinen.html"
+  },
+  {
+    "id": 3076,
+    "slug": "karriere",
+    "parent": 0,
+    "title": "Karriere",
+    "link": "/karriere/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Karriere bei der Prüfstelle Blatter. Werde Prüfingenieur bei uns.",
+      "description": "Jetzt Prüfingenieur bei uns werden ✓ Direkteinstieg ✓ Ausbildung ✓ Attraktive Konditionen ✓ Wir freuen uns auf dich!"
+    },
+    "file": "3076-karriere.html"
+  },
+  {
+    "id": 2854,
+    "slug": "tuev-loerrach",
+    "parent": 1541,
+    "title": "Tüv-Lörrach",
+    "link": "/hauptuntersuchung/tuev-loerrach/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung in Steinen| KÜS KFZ-Prüfstelle Blatter",
+      "description": "Hauptuntersuchung in Steinen nähe Lörrach einfach und unkompliziert machen lassen ✓ PKW ✓ Wohnmobil ✓ Anhänger ✓ Motorrad ✓ Wir freuen uns auf dich!"
+    },
+    "file": "2854-tuev-loerrach.html"
+  },
+  {
+    "id": 2802,
+    "slug": "tuev-schopfheim",
+    "parent": 1541,
+    "title": "Tüv-Schopfheim",
+    "link": "/hauptuntersuchung/tuev-schopfheim/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung in Steinen| KÜS KFZ-Prüfstelle Blatter",
+      "description": "Hauptuntersuchung in Steinen nähe Schopfheim einfach und unkompliziert machen lassen ✓ PKW ✓ Wohnmobil ✓ Anhänger ✓ Motorrad ✓ Wir freuen uns auf dich!"
+    },
+    "file": "2802-tuev-schopfheim.html"
+  },
+  {
+    "id": 2192,
+    "slug": "blog",
+    "parent": 0,
+    "title": "Blog",
+    "link": "/blog/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Blog | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Unser Blog ✓ Alles rund um das Thema KFZ ✓ HU ✓ Gutachten ✓ Wir freuen uns auf dich!"
+    },
+    "file": "2192-blog.html"
+  },
+  {
+    "id": 1790,
+    "slug": "gtue-alternative",
+    "parent": 1514,
+    "title": "Freiburg-GTÜ",
+    "link": "/hauptuntersuchung/freiburg/gtue-alternative/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Alternative zu GTÜ in Freiburg | HU/AU | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Jetzt deine Hauptuntersuchung in Freiburg machen lassen ✓ PKW ✓ Motorrad ✓ Anhänger ✓ Jetzt Termin buchen!"
+    },
+    "file": "1790-gtue-alternative.html"
+  },
+  {
+    "id": 1769,
+    "slug": "dekra-alternative",
+    "parent": 1504,
+    "title": "Bad Säckingen-DEKRA",
+    "link": "/hauptuntersuchung/bad-saeckingen/dekra-alternative/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Alternative zur DEKRA Prüfstelle in Rheinfelden | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Hol dir deine Plakette in Bad Säckingen ✓ unkompliziert und einfach ✓ PKW, Wohnmobil, Anhänger, Motorrad ✓ Jetzt HU&AU Termin buchen!"
+    },
+    "file": "1769-dekra-alternative.html"
+  },
+  {
+    "id": 1764,
+    "slug": "dekra-alternative",
+    "parent": 1514,
+    "title": "Freiburg-DEKRA",
+    "link": "/hauptuntersuchung/freiburg/dekra-alternative/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Alternative zur DEKRA in Freiburg | HU/AU | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Jetzt deine Hauptuntersuchung in Freiburg machen lassen ✓ PKW ✓ Motorrad ✓ Anhänger ✓ Jetzt Termin buchen!"
+    },
+    "file": "1764-dekra-alternative.html"
+  },
+  {
+    "id": 1731,
+    "slug": "tuev",
+    "skipped": "redirect"
+  },
+  {
+    "id": 1716,
+    "slug": "tuev",
+    "skipped": "redirect"
+  },
+  {
+    "id": 1541,
+    "slug": "hauptuntersuchung",
+    "parent": 0,
+    "title": "Hauptuntersuchung",
+    "link": "/hauptuntersuchung/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung HU/AU | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Jetzt Hauptuntersuchung machen lassen ✓ Für PKW's 158€ ✓ Motorrad 89€ ✓ Anhänger ab 43€✓ Wir freuen uns auf dich!"
+    },
+    "file": "1541-hauptuntersuchung.html"
+  },
+  {
+    "id": 1514,
+    "slug": "freiburg",
+    "parent": 1541,
+    "title": "Freiburg",
+    "link": "/hauptuntersuchung/freiburg/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung in Freiburg | HU/AU | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Einfach und unkompliziert deine Hauptuntersuchung in Freiburg machen lassen ✓ PKW ✓ Motorrad ✓ Anhänger ✓ Wohnmobil ✓ Jetzt Termin buchen!"
+    },
+    "file": "1514-freiburg.html"
+  },
+  {
+    "id": 1504,
+    "slug": "bad-saeckingen",
+    "parent": 1541,
+    "title": "Bad Säckingen",
+    "link": "/hauptuntersuchung/bad-saeckingen/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung in Bad Säckingen| KÜS KFZ-Prüfstelle Blatter",
+      "description": "Hauptuntersuchung in Bad Säckingen einfach und unkompliziert machen lassen ✓ PKW ✓ Wohnmobil ✓ Anhänger ✓ Motorrad ✓ Wir freuen uns auf dich!"
+    },
+    "file": "1504-bad-saeckingen.html"
+  },
+  {
+    "id": 516,
+    "slug": "home-2",
+    "parent": 0,
+    "title": "Startseite",
+    "link": "/",
+    "menu_order": 0,
+    "seo": {
+      "title": "Hauptuntersuchung HU/AU | KÜS KFZ-Prüfstelle Blatter",
+      "description": "Hauptuntersuchung einfach und unkompliziert machen lassen ✓ PKW ✓ Motorrad ✓ Anhänger ✓ Wohnmobil ✓ Jetzt Termin buchen!"
+    },
+    "file": "516-home-2.html"
+  },
+  {
+    "id": 9,
+    "slug": "impressum",
+    "skipped": "klassischer Inhalt bleibt"
+  },
+  {
+    "id": 8,
+    "slug": "datenschutzerklaerung",
+    "skipped": "klassischer Inhalt bleibt"
+  }
+]
